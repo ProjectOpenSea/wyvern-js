@@ -32,7 +32,7 @@
     "@0x/utils": "https://github.com/ProjectOpensea/0x-tools/raw/provider-patch/utils/0x-utils-6.5.0.tgz",
     "@0x/web3-wrapper": "^7.6.1",
     "bn.js": "^4.11.8",
-    "ethereumjs-abi": "https://github.com/ProjectWyvern/ethereumjs-abi.git",
+    "ethereumjs-abi": "git+https://github.com/ProjectWyvern/ethereumjs-abi.git",
     "ethereumjs-util": "^5.1.3",
     "ethers": "^4.0.49",
     "json-loader": "^0.5.7",
